@@ -1,0 +1,5 @@
+*  [Channel Centric Subjects](DAQ_Nodes_Channel_Centric_Subjects.md)
+*  [Batched Per Device Subjects](DAQ_Nodes_Batched_per-device_subjects.md)
+*  [Short Key Mapping Pattern](DAQ_Nodes_Short_Key_Mapping.md)
+*  [Subjects proposal](DAQ_Nodes_NATS_Subjects_Proposal.md)
+*  [Messages Payload proposal](DAQ_Nodes_NATS_Messages_Payload.md)
